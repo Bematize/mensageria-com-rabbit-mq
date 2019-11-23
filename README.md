@@ -1,2 +1,3 @@
-# mensageria-com-rabbit-mq
-Exemplo básico de envio e consumo de filas usando RabbitMQ
+# Mensageria com RabbitMQ
+
+Este projeto foi usado como exemplo básico em uma apresentação realizada na empresa Bematize para introduzir o conceito de mensageria.
