@@ -1,0 +1,12 @@
+D:\Github\RabbitMQ\ola-mundo\Publisher\bin\Debug\Publisher.exe.config
+D:\Github\RabbitMQ\ola-mundo\Publisher\bin\Debug\Publisher.exe
+D:\Github\RabbitMQ\ola-mundo\Publisher\bin\Debug\Publisher.pdb
+D:\Github\RabbitMQ\ola-mundo\Publisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Github\RabbitMQ\ola-mundo\Publisher\bin\Debug\RabbitMQ.Client.dll
+D:\Github\RabbitMQ\ola-mundo\Publisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Github\RabbitMQ\ola-mundo\Publisher\bin\Debug\RabbitMQ.Client.xml
+D:\Github\RabbitMQ\ola-mundo\Publisher\obj\Debug\Publisher.csprojAssemblyReference.cache
+D:\Github\RabbitMQ\ola-mundo\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+D:\Github\RabbitMQ\ola-mundo\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+D:\Github\RabbitMQ\ola-mundo\Publisher\obj\Debug\Publisher.exe
+D:\Github\RabbitMQ\ola-mundo\Publisher\obj\Debug\Publisher.pdb
